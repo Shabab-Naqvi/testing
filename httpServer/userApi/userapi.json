@@ -1,0 +1,187 @@
+[
+    {
+        "id":1,
+        "name":"leanne Graham",
+        "email":"Sincere@april.biz",
+        "address":{
+            "street":"Kulus light",
+            "suit":"Apt. 556",
+            "city":"Gwenborough",
+            "zipcode":"92998-3874",
+            "geo":{
+                "lat":"-37.3159",
+                "lng":"81.1496"
+            }
+        },
+        "phone":"1-770-736-8031 x56442",
+        "website":"hildegard.org",
+        "company":{
+            "name":"Romaguera-crona",
+            "catchPhrase":"Multi-layered client-server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+        
+    },
+    {
+        "id":2,
+        "name":"shabab Graham",
+        "email":"Shabab@april.biz",
+        "address":{
+            "street":"convey light",
+            "suit":"Apt. 756",
+            "city":"peshawer",
+            "zipcode":"72998-3874",
+            "geo":{
+                "lat":"-30.3159",
+                "lng":"71.1496"
+            }
+        },
+        "phone":"1-770-737-7031 x58842",
+        "website":"gildegard.org",
+        "company":{
+            "name":"Romazra-crona",
+            "catchPhrase":"Multi-layered client-server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+        
+    },
+    {
+        "id":3,
+        "name":"usman Graham",
+        "email":"Sincdjcne@april.biz",
+        "address":{
+            "street":"Kudnkal light",
+            "suit":"Apt. 556",
+            "city":"Gwenborough",
+            "zipcode":"92998-3874",
+            "geo":{
+                "lat":"-90.3159",
+                "lng":"100.1496"
+            }
+        },
+        "phone":"1-990-736-8031 x56442",
+        "website":"hildeacddfd.org",
+        "company":{
+            "name":"cadASKN-crona",
+            "catchPhrase":"Multi-layered client-server neural-net",
+            "bs":"GOOD  real-time e-markets"
+        }
+        
+    },
+    {
+        "id":4,
+        "name":"leanne Graham",
+        "email":"Sincere@april.biz",
+        "address":{
+            "street":"Kulus light",
+            "suit":"Apt. 556",
+            "city":"Gwenborough",
+            "zipcode":"92998-3874",
+            "geo":{
+                "lat":"-37.3159",
+                "lng":"81.1496"
+            }
+        },
+        "phone":"1-770-736-8031 x56442",
+        "website":"hildegard.org",
+        "company":{
+            "name":"Romaguera-crona",
+            "catchPhrase":"Multi-layered client-server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+        
+    },
+    {
+        "id":5,
+        "name":"leanne Graham",
+        "email":"Sincere@april.biz",
+        "address":{
+            "street":"Kulus light",
+            "suit":"Apt. 556",
+            "city":"Gwenborough",
+            "zipcode":"92998-3874",
+            "geo":{
+                "lat":"-37.3159",
+                "lng":"81.1496"
+            }
+        },
+        "phone":"1-770-736-8031 x56442",
+        "website":"hildegard.org",
+        "company":{
+            "name":"Romaguera-crona",
+            "catchPhrase":"Multi-layered client-server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+        
+    },
+    {
+        "id":6,
+        "name":"leanne Graham",
+        "email":"Sincere@april.biz",
+        "address":{
+            "street":"Kulus light",
+            "suit":"Apt. 556",
+            "city":"Gwenborough",
+            "zipcode":"92998-3874",
+            "geo":{
+                "lat":"-37.3159",
+                "lng":"81.1496"
+            }
+        },
+        "phone":"1-770-736-8031 x56442",
+        "website":"hildegard.org",
+        "company":{
+            "name":"Romaguera-crona",
+            "catchPhrase":"Multi-layered client-server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+        
+    },
+    {
+        "id":7,
+        "name":"leanne Graham",
+        "email":"Sincere@april.biz",
+        "address":{
+            "street":"Kulus light",
+            "suit":"Apt. 556",
+            "city":"Gwenborough",
+            "zipcode":"92998-3874",
+            "geo":{
+                "lat":"-37.3159",
+                "lng":"81.1496"
+            }
+        },
+        "phone":"1-770-736-8031 x56442",
+        "website":"hildegard.org",
+        "company":{
+            "name":"Romaguera-crona",
+            "catchPhrase":"Multi-layered client-server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+        
+    },
+    {
+        "id":8,
+        "name":"saqib sattar",
+        "email":"Saqi@april.biz",
+        "address":{
+            "street":"khattak light",
+            "suit":"Apt. 226",
+            "city":"kohat",
+            "zipcode":"62668-3874",
+            "geo":{
+                "lat":"-18.3159",
+                "lng":"52.1496"
+            }
+        },
+        "phone":"1-660-636-8031 x56442",
+        "website":"saqi.org",
+        "company":{
+            "name":"good-crona",
+            "catchPhrase":"Multi-layered client-server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+        
+    }
+
+]
